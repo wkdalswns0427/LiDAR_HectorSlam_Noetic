@@ -1,0 +1,2 @@
+my_robot_pkg
+-DCATKIN_DEVEL_PREFIX=/home/minjun/robot_ws/devel -DCMAKE_INSTALL_PREFIX=/home/minjun/robot_ws/install -G Unix Makefiles

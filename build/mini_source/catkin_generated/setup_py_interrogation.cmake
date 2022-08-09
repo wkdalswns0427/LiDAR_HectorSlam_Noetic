@@ -1,0 +1,7 @@
+set(mini_ros_SETUP_PY_SETUP_MODULE "distutils.core")
+set(mini_ros_SETUP_PY_VERSION "0.0.0")
+set(mini_ros_SETUP_PY_SCRIPTS "")
+set(mini_ros_SETUP_PY_PACKAGES "mini_bullet;ars_lib")
+set(mini_ros_SETUP_PY_PACKAGE_DIRS "mini_bullet;ars_lib")
+set(mini_ros_SETUP_PY_MODULES "")
+set(mini_ros_SETUP_PY_MODULE_DIRS "")

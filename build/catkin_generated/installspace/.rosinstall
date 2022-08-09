@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/minjun/robot_ws/install/setup.sh
