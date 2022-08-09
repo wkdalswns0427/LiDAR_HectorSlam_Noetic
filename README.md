@@ -3,19 +3,20 @@
 file structure
 
 -----------
+```
 
-ㄴ **/build**
+ㄴ /build
 
-ㄴ **/devel**
+ㄴ /devel
 
-ㄴ **/src -- /my_robot_pkg** --  **/closed_loop** -- **turtle_controller.py**
+ㄴ /src -- /my_robot_pkg --  /closed_loop -- turtle_controller.py
 
-​											ㄴ **/turtle_pub_sub** -- **publisher_draw_circle.py**
+          ㄴ /turtle_pub_sub -- publisher_draw_circle.py
 
-​											|							  ㄴ **subscribe_turtle.py**
+          |                  ㄴ subscribe_turtle.py
 
-​											ㄴ **/scripts** -- **my_first_node.py**
-
+          ㄴ /scripts -- my_first_node.py
+```
 ---
 
 ROS Noetic (Ubuntu 20.04) basics
