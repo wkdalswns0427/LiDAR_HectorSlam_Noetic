@@ -1,8 +1,0 @@
-prefix=/home/minjun/robot_ws/install
-
-Name: mini_ros
-Description: Description of mini_ros
-Version: 0.0.0
-Cflags: -I${prefix}/include
-Libs: -L${prefix}/lib -lmini_ros
-Requires: geometry_msgs message_generation message_runtime roscpp rospy sensor_msgs visualization_msgs

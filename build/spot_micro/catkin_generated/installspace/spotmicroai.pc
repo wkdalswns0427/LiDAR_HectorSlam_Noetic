@@ -1,8 +1,0 @@
-prefix=/home/minjun/robot_ws/install
-
-Name: spotmicroai
-Description: Description of spotmicroai
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

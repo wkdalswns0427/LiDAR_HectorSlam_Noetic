@@ -1,8 +1,0 @@
-prefix=/home/minjun/robot_ws/install
-
-Name: my_robot_pkg
-Description: Description of my_robot_pkg
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
