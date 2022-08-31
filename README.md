@@ -1,21 +1,17 @@
-# ROS_Noetic
+# ros_sim_lidar_noetic
 
-file structure
+ROS Noetic based projects archive
+
+composed of basic ros features, lidar setup, turtlebot simulation packages
 
 -----------
 ```
 
-ㄴ /build
+- my_robot_pkg : basic features like publsher/subscriber, server/client
 
-ㄴ /devel
+- turtlebot3_simulations : simulation config for turtlebot3
 
-ㄴ /src -- /my_robot_pkg --  /closed_loop -- turtle_controller.py
-
-          ㄴ /turtle_pub_sub -- publisher_draw_circle.py
-
-          |                  ㄴ subscribe_turtle.py
-
-          ㄴ /scripts -- my_first_node.py
+- ydlidar : YDLidar G4 model setup for actual SLAM
 ```
 ---
 
