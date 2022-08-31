@@ -4,6 +4,9 @@ ROS Noetic based projects archive
 
 composed of basic ros features, lidar setup, turtlebot simulation packages
 
+first you need to configure turtlebot simulation environment to deal with any turtlebot stuff
+[korean guide link here](https://checker-manatee-fb6.notion.site/Turtlebot-SLAM-Simulation-1ada833f6436431094894cb8381c091d)
+
 -----------
 ```
 
