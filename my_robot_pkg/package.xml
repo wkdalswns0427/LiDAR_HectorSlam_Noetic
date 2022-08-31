@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>my_robot_pkg</name>
+  <version>0.0.0</version>
+  <description>The my_robot_pkg package</description>
+  <maintainer email="pawpaw0427@gmail.com">minjun</maintainer>
+  <license>GPLv3</license>
+  <!-- <url type="website">http://wiki.ros.org/my_robot_pkg</url> -->
+  <author email="pawpaw0427@gmail.com">minjun</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>roscpp</build_depend>
+  <build_depend>rospy</build_depend>
+  <build_depend>turtlesim</build_depend>
+  <build_depend>geometry_msgs</build_depend>
+  <build_export_depend>roscpp</build_export_depend>
+  <build_export_depend>rospy</build_export_depend>
+  <build_export_depend>turtlesim</build_export_depend>
+  <build_export_depend>geometry_msgs</build_export_depend>
+  <exec_depend>roscpp</exec_depend>
+  <exec_depend>rospy</exec_depend>
+  <exec_depend>turtlesim</exec_depend>
+  <exec_depend>geometry_msgs</exec_depend>
+
+  <export>
+
+  </export>
+</package>

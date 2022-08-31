@@ -1,0 +1,5 @@
+<launch>
+    <node pkg="my_robot_pkg/turtle_pub_sub" type="publisher_draw_circle" name="draw_circle" />
+    <node pkg="my_robot_pkg/turtle_pub_sub" type="subscribe_turtle" name="turtle_subscriber" output="screen"/>
+    
+</launch>
