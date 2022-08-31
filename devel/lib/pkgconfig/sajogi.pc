@@ -1,8 +1,0 @@
-prefix=/home/minjun/robot_ws/devel
-
-Name: sajogi
-Description: Description of sajogi
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
