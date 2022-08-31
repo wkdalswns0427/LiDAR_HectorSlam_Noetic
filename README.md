@@ -4,18 +4,18 @@ ROS Noetic based projects archive
 
 composed of basic ros features, lidar setup, turtlebot simulation packages
 
-these need to be built in catkin workspace. 
+to use any of these following requirements need to be satisfied
+- build YDLidar SDK [guide](https://checker-manatee-fb6.notion.site/RPi-LiDAR-8c7e91de75af46b0bb0cdf8a34a70cb2)
+- build "ydlidar_ros_driver", "ros_naviagtion_turtlebot3", "my_robot_pkg"
 
-move "ydlidar_ros_driver", "ros_naviagtion_turtlebot3", "my_robot_pkg" to your catkin_ws/src and do
-```
-cakin_make
-```
-here's guide to deal with errors thah might appear [guide](https://checker-manatee-fb6.notion.site/RPi-LiDAR-8c7e91de75af46b0bb0cdf8a34a70cb2)
+  move "ydlidar_ros_driver", "ros_naviagtion_turtlebot3", "my_robot_pkg" to your catkin_ws/src and do
+  ```
+  cakin_make
+  ```
+  troubleshooting also dealt in guide above
+- configure turtlebot simulation env [korean guide link here](https://checker-manatee-fb6.notion.site/Turtlebot-SLAM-Simulation-1ada833f6436431094894cb8381c091d)
 
-first you need to configure turtlebot simulation environment to deal with any turtlebot stuff
-[korean guide link here](https://checker-manatee-fb6.notion.site/Turtlebot-SLAM-Simulation-1ada833f6436431094894cb8381c091d)
-
------------
+---
 ```
 
 - my_robot_pkg : basic features like publsher/subscriber, server/client
