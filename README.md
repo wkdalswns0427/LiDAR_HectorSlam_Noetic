@@ -2,6 +2,8 @@
 
 ROS Noetic based projects archive
 
+https://maltese-rocks.tistory.com/34
+
 composed of basic ros features, lidar setup, turtlebot simulation packages
 
 to use any of these following requirements need to be satisfied
@@ -23,6 +25,8 @@ to use any of these following requirements need to be satisfied
 - turtlebot3_simulations : simulation config for turtlebot3
 
 - ydlidar : YDLidar G4 model setup for actual SLAM
+
+- hector_slam : hector slam stack for ROS1
 ```
 ---
 
